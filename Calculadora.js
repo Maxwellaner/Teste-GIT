@@ -7,7 +7,7 @@ function sub(){
 }
 
 function mult(){
-    //TODO: Implementar multiplicação
+    
 }
 
 function div(){
