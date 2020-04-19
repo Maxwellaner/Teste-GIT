@@ -11,5 +11,5 @@ function mult(){
 }
 
 function div(){
-    //TODO: Implementar divisão
+    
 }
