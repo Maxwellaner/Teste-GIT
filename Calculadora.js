@@ -1,5 +1,5 @@
 function sum(){
-    //TODO: Implementar soma
+    
 }
 
 function sub(){
