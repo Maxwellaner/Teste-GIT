@@ -1,0 +1,87 @@
+    1  cd ..
+    2  cd Prova
+    3  git push
+    4  git pull
+    5  git push
+    6  cl
+    7  cls
+    8  clear
+    9  git pull reques
+   10  git pull request
+   11  git pull 
+   12  git pull-request
+   13  git --help
+   14  git pull
+   15  git push
+   16  git push origin
+   17  git add .
+   18  git status
+   19  git push origin
+   20  git commit
+   21  git push origin
+   22  git push origin
+   23  git pull
+   24  git push
+   25  git pull master
+   26  git pull
+   27  git push
+   28  git pull
+   29  git add .
+   30  git pull
+   31  git push
+   32  git push --help
+   33  git pull ...
+   34  git merge
+   35  git pull
+   36  git push
+   37  git pull
+   38  git push
+   39  git pull
+   40  git push
+   41  git pull
+   42  git update
+   43  git checkout master
+   44  git checkout 
+   45  git checkout master
+   46  git checkout master
+   47  git checkout master
+   48  Code .
+   49  cls
+   50  clear
+   51  git remote add https://github.com/Maxwellaner/Teste-GIT
+   52  git remote add origin https://github.com/Maxwellaner/Teste-GIT
+   53  cls
+   54  cd ..
+   55  cd Prova
+   56  git pull
+   57  git checkout master
+   58  git checkout master
+   59  git checkout master
+   60  git stash 
+   61  git checkout master
+   62  git flow feature start sub
+   63  ls
+   64  Code .
+   65  git add ,
+   66  git add .
+   67  git commit
+   68  git pull
+   69  git branch --set-upstream-to=origin/develop featur/sub
+   70  git pull feature/sub
+   71  git checkout master
+   72  git flow init
+   73  git flow feature start sub
+   74  git checkout sub
+   75  git checkout feature/sub
+   76  git add .
+   77  git commit .
+   78  git commit
+   79  Code .
+   80  git pull
+   81  git-pull
+   82  git push
+   83  clear
+   84  git push
+   85  git push
+   86  git push --set-upstream origin feature/sub
+   87  history > LOG_JuanCarlos
