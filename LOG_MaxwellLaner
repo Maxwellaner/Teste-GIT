@@ -1,0 +1,67 @@
+    1  clear
+    2  git flow init
+    3  git flow init
+    4  clear
+    5  npm i -g gitmoji-cli
+    6  clear
+    7  gitmoji -i
+    8  clear
+    9  git flow feature start mult
+   10  clear
+   11  git commit
+   12  clear
+   13  git add .
+   14  git commit
+   15  clear
+   16  git add .
+   17  git status
+   18  clear
+   19  git commit
+   20  clear
+   21  git remote add origin https://github.com/Maxwellaner/Teste-GIT.git
+   22  clear
+   23  git push origin
+   24  git push --set-upstream origin feature/mult
+   25  clear
+   26  git add .
+   27  clear
+   28  git commit
+   29  git commit --amend
+   30  clear
+   31  git push origin
+   32  git pull origin
+   33  git push origin
+   34  git push origin
+   35  git pull
+   36  git status
+   37  gita add .
+   38  git add .
+   39  clear
+   40  git push origin
+   41  clear
+   42  git pull origin
+   43  git checkout master
+   44  git pull
+   45  clear
+   46  git flow feature start div
+   47  clear
+   48  git checkout master
+   49  git checkout feature/div
+   50  clear
+   51  git add .
+   52  git commit
+   53  clear
+   54  git add .
+   55  clear
+   56  git commit
+   57  clear
+   58  git push origin
+   59  git push --set-upstream origin feature/div
+   60  clear
+   61  git checkout master
+   62  git pull origin
+   63  git pull origin
+   64  clear
+   65  git tag -a 1.0.0 -m "Projeto base calculadora"
+   66  git tag
+   67  history > LOG_MaxwellLaner
